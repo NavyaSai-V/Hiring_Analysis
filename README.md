@@ -30,11 +30,19 @@ I have used
 **Outlier Analysis**
 To Identify the outliers, I have used formulas and removed the outliers as True
 
+![outliers](https://github.com/NavyaSai-V/Hiring_Analysis/assets/130676924/222ce03c-64be-4b00-8bcc-12852387fd12)
+
 **Class Intervals:**
  Draw the class intervals for salary in the company?
 The output I got from Pivot Table
+![classintervel](https://github.com/NavyaSai-V/Hiring_Analysis/assets/130676924/77ef0ca9-fd28-4978-9a2d-540e72d62f67)
+
+![graph](https://github.com/NavyaSai-V/Hiring_Analysis/assets/130676924/c95c802f-3df4-41f3-bae8-6186b147af57)
+
 
 **Charts and Plots:** 
 Draw Pie Chart / Bar Graph (or any other graph) to show proportion
 of people working different department?
+![pie](https://github.com/NavyaSai-V/Hiring_Analysis/assets/130676924/fb6f588e-2a4d-47a6-8331-f7cc05b6602e)
+
 
